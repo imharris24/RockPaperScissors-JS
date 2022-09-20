@@ -8,20 +8,36 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
     <title>Rock Paper Scissors</title>
 </head>
 <body>
-    <div>
-        <h1>Rock Paper Scissors</h1>
+    <!-- title -->
+    <div class="title-box">
+        <h1 class="title-box-content">Rock Paper Scissors</h1>
     </div>
-    <h2>Computer Choice: <span id="computer-choice"></span></h2>
-    <h2>User Choice: <span id="user-choice"></span></h2>
-    <h2>Result: <span id="result"></span></h2>
-
-    <button id="rock-button">Rock</button>
-    <button id="paper-button">Paper</button>
-    <button id="scissors-button">Scissors</button>
-
+    <!-- user choice -->
+    <div class="player-box">
+        <h2 class="player-box-content">User Choice</h2>
+        <h2 class="player-box-content-selection"><span id="user-choice">...</span></h2>
+    </div>
+    <!-- computer choice -->
+    <div class="player-box float-child">
+        <h2 class="player-box-content">Computer Choice</h2>
+        <h2 class="player-box-content-selection"><span id="computer-choice">...</span></h2>
+    </div>
+    <span class="clear-float"></span>
+    <!-- result -->
+    <div class="result-box">
+        <h2 class="result-box-content">Result</h2>
+        <h2 class="result-box-content-selection"><span id="result">...</span></h2>
+    </div>
+    <!-- buttons -->
+    <div class="buttons-container">
+        <button id="rock-button" class="game-button">Rock</button>
+        <button id="paper-button" class="game-button">Paper</button>
+        <button id="scissors-button" class="game-button">Scissors</button>
+    </div>
     <script src="assets/javascript/main.js"></script>
 </body>
 </html>
