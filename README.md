@@ -43,6 +43,8 @@ Here are some related projects,
 
 [GIF-GIF Go!](https://github.com/imharris24/GifGifGo-JS)
 
+[Match The Cards](https://github.com/imharris24/MatchTheCards-JS)
+
 ## Authors
 
 - [@imharris24](https://www.github.com/imharris24)
