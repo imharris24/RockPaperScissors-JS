@@ -39,7 +39,7 @@ This game has been developed for web using HTML, CSS and JavaScript with very si
 
 Here are some related projects,
 
-[Cricket Academy Manager](https://github.com/imharris24/CAM-WEB)
+[Stopwatch](https://github.com/imharris24/Stopwatch-JS)
 
 [GIF-GIF Go!](https://github.com/imharris24/GifGifGo-JS)
 
