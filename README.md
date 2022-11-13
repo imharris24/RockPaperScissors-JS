@@ -30,7 +30,7 @@ This game has been developed for web using HTML, CSS and JavaScript with very si
 
 ## How to run this application?
 
-- Download application folder from this repository.
+- Download src folder from this repository.
 - Open index.html with any browser.
 
 
