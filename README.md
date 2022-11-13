@@ -14,9 +14,9 @@ This game has been developed for web using HTML, CSS and JavaScript with very si
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/imharris24/RockPaperScissors-JS/main/Screenshot/SC001.png?token=GHSAT0AAAAAABYVWMVQDXBHLOYAVITLAHQKYZJRNWQ)
+![App Screenshot](https://raw.githubusercontent.com/imharris24/RockPaperScissors-JS/main/screenshot/scr01.png?token=GHSAT0AAAAAABYVWMVQDXBHLOYAVITLAHQKYZJRNWQ)
 
-![App Screenshot](https://raw.githubusercontent.com/imharris24/RockPaperScissors-JS/main/Screenshot/SC002.png?token=GHSAT0AAAAAABYVWMVRPLZGFDQ74FO7PXJKYZJRPMA)
+![App Screenshot](https://raw.githubusercontent.com/imharris24/RockPaperScissors-JS/main/screenshot/scr02.png?token=GHSAT0AAAAAABYVWMVRPLZGFDQ74FO7PXJKYZJRPMA)
 
 
 ## Tech Stack
