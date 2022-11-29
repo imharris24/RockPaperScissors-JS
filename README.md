@@ -52,5 +52,5 @@ Here are some related projects,
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://imharris24.github.io/)
 ## Feedback
 
-If you have any feedback, please reach out to us at harris20014@gmail.com.com
+If you have any feedback, please reach out to us at harris20014@gmail.com
 
